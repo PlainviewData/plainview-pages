@@ -1,5 +1,5 @@
 module.exports = {
-	'API_URL': 'http://plainview-api.herokuapp.com/',
-	'ARCHIVES_URL': 'http://plainview-api.herokuapp.com/archives/',
-	'URLS_URL': 'http://plainview-api.herokuapp.com/urls/'
+	'API_URL': 'http://www.plainview.io/',
+	'ARCHIVES_URL': 'http://www.plainview.io/archives/',
+	'URLS_URL': 'http://www.plainview.io/urls/'
 };
